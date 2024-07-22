@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Introduccion_de_numeros_hasta_el_0", "CSharp_Introduccion_de_numeros_hasta_el_0\CSharp_Introduccion_de_numeros_hasta_el_0.csproj", "{1E3BA95B-52AF-449E-8EC6-1DF97F44AE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3BA95B-52AF-449E-8EC6-1DF97F44AE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3BA95B-52AF-449E-8EC6-1DF97F44AE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3BA95B-52AF-449E-8EC6-1DF97F44AE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3BA95B-52AF-449E-8EC6-1DF97F44AE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D26EBD9-C408-45A1-8911-36A9D43DC7F3}
+	EndGlobalSection
+EndGlobal
